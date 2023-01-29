@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VotingApplication</string>
+    <string name="title_activity_main">Login</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UTeM E-Undi</string>
+    <string name="nav_header_subtitle">b03xxxxxxx@student.utem.edu.my</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_candidate">Candidate List</string>
+    <string name="menu_vote">Vote</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="rule_1">
+        1. General : Choose ........ candidates
+    </string>
+
+    <string name="rule_2">
+        2. Faculty : Choose ........ candidates
+    </string>
+</resources>
